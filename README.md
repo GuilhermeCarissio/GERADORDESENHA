@@ -6,6 +6,6 @@
 
 link do projeto: https://guilhermecarissio.github.io/GERADORDESENHA
 
-<h2> Linguagens usadas: <h2/>
+<h2> Tecnologias usadas <h2/>
 
 ![142-1423886_html5-css3-js-html-css-javascript (1)](https://user-images.githubusercontent.com/79383274/212446980-ef6ccbd0-b1e6-4940-ad9f-677bb4c298a2.png)
